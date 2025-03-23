@@ -1,4 +1,5 @@
-## Hello, I'm a young French developer currently working on games for BlueCubeStudio, an independent studio of which I'm the director. If you have any questions about the studio, please don't hesitate to contact me. I'll get back to you as soon as possible! Today, I can only be contacted via GitHub, but that could change in the future, so keep an eye out for new studio releases and new games from the studio, because good news is coming soon! 🟦🎮🖥️💾
+## Hello, I'm a young French developer currently working on games for BlueCubeStudio, an independent studio of which I'm the director. 
+## If you have any questions about the studio, please don't hesitate to contact me. I'll get back to you as soon as possible! Today, I can only be contacted via GitHub, but that could change in the future, so keep an eye out for new studio releases and new games from the studio, because good news is coming soon! 🟦🎮🖥️💾
 
 <!--
 **Aruk0/Aruk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
