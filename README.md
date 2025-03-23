@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm a young French developer currently working on games for BlueCubeStudio, an independent studio of which I'm the director. If you have any questions about the studio, please don't hesitate to contact me. I'll get back to you as soon as possible!
 
 <!--
 **Aruk0/Aruk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
